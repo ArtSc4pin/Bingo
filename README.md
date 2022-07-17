@@ -8,4 +8,4 @@ de nenhuma entrada de dados, gerando as tabelas e sorteios a partir de números 
 a função rand().
 
   Foi utilizado a liguagem C para implementação do código, e utilizado como base para a sintaxe o
-compilador online Online GDB.
+compilador online Online GDB. https://www.onlinegdb.com/online_c_compiler#
